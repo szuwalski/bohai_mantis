@@ -1,9 +1,5 @@
 # apply LBSPR to different simulated data sets
 # need to calculate the 'true' SBPR for each
-# scenarios: constant recruitment, single month
-# scenarios: sporadic recruitment, single month
-# scenarios: constant recruitment, double month
-# scenarios: sporadic recruitment, double month
 
 # Pull data from mantis_om, populate below
 # compare the actual Bzero at a given time to the estimated for different scenarios
